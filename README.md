@@ -3,8 +3,8 @@ This is my final year thesis project. In this project i tried to show a comparat
 
 
 
-Here, We worked on IEMOCAP dataset which was realized by the University of Southern California.  The dataset has three types of data: text, audio, and video.  We worked on the only text and audio dataset. 
-
+Here, We worked on IEMOCAP dataset which was realized by the University of Southern California.  The dataset has three types of data: text, audio, and video.  We worked on only text and audio dataset. 
+In our project, we classifiy six emotion labels namly, Angry, Happy, Sad, Fear, Surprise, and Neutral with machine learning and deep learning based models. We also show a comparative analysis between these models. 
 
 We have divided our experiment into three parts:
 
